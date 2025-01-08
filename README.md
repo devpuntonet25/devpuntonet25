@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Juan Manuel</h1>
 <h3 align="center">Desarrollador backend</h3>
 
-- 🌱 Estoy aprendiendo **Python**
+- 🌱 Me apasiona el desarrollo back-end y actualmente me encuentro aprendiendo **Python**
 
 - 💬 Pregúntame sobre **Springboot, spring security, react, java avanzado**
 
