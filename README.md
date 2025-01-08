@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Juan Manuel</h1>
 <h3 align="center">Desarrollador backend</h3>
 
-- 🌱 Estoy aprendiendo **Springboot, spring security, reactjs, css, java avanzado**
+- 🌱 Estoy aprendiendo **Python**
 
-- 💬 Pregúntame sobre **java, sql, mysql, javascript, poo, modelamiento de bases de datos relacionales**
+- 💬 Pregúntame sobre **Springboot, spring security, react, java avanzado**
 
 - 📫 comunícate conmigo **juanmanuelhg.uno@gmail.com**
 
